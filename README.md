@@ -19,3 +19,5 @@
 1. Try to understand what the commands you just used, did. If you don't understand, ask around!
 
 1. Get started on your JS exercises.
+  
+[Exercises](https://geert-timmermans.github.io/js-web/)
