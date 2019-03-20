@@ -20,4 +20,4 @@
 
 1. Get started on your JS exercises.
   
-[Exercises](https://geert-timmermans.github.io/js-web/)
+1. [Exercises](https://geert-timmermans.github.io/js-web/)
