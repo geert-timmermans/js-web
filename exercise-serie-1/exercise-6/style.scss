@@ -1,1 +1,20 @@
 //Write your scss here and then compile it to "style.css"...
+
+.d-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+   
+.wrapper{   
+    max-width: 70%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}

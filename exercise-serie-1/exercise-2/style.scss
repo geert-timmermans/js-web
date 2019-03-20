@@ -1,1 +1,13 @@
 //Write your scss here and then compile it to "style.css"...
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.output{
+    color: #000;
+}
