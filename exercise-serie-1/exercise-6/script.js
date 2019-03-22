@@ -18,5 +18,5 @@ document.getElementById("myFrame").onload = function() {myFunction()};
 
 function imageBuilder() {
     for(i=0; i<12; i++){
-    document.getElementById("my_image").innerHTML = images[i];
+    document.getElementById("my_image").src = images[i];
 }

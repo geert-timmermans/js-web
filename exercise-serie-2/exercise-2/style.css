@@ -1,3 +1,10 @@
+.img-size {
+  height: 50vh;
+  object-fit: contain;
+}
 
+.bgc-card {
+  background-color: #e8e8e8;
+}
 
 /*# sourceMappingURL=style.css.map */
