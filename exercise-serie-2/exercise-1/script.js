@@ -12,7 +12,7 @@ let request = new XMLHttpRequest();
 request.open('GET', 'https://aws.random.cat/meow', true);
 
 request.onload = function () {
-    var data = JSON.parse(this.response)
+    let data = JSON.parse(this.response)
 
     document.getElementById("imageid").src = data.file;
 
