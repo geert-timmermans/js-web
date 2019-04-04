@@ -1,6 +1,5 @@
 # JS Folder Structure
 
-[preview](https://selenenijst.github.io/js-web-template/)
 [Exercises](https://geert-timmermans.github.io/js-web/)
 
 ### How To Use
