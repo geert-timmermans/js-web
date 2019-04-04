@@ -1,6 +1,7 @@
 # JS Folder Structure
 
 [preview](https://selenenijst.github.io/js-web-template/)
+[Exercises](https://geert-timmermans.github.io/js-web/)
 
 ### How To Use
 1. Initialize a new repository on GitHub called `js-web` without a readme. **Don't clone the repository!**
@@ -19,5 +20,3 @@
 1. Try to understand what the commands you just used, did. If you don't understand, ask around!
 
 1. Get started on your JS exercises.
-  
-1. [Exercises](https://geert-timmermans.github.io/js-web/)
